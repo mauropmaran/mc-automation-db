@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "mc-automation-db",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1518bdd8-1765-4222-b3f8-a5bd28ab9ba1",
+      "database_name": "mc-automation-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
